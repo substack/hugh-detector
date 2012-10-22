@@ -1,0 +1,42 @@
+{
+    "name" : "hugh-detector",
+    "version" : "0.0.0",
+    "description" : "detect the color red in an image",
+    "main" : "index.js",
+    "bin" : {},
+    "directories" : {
+        "example" : "example",
+        "test" : "test"
+    },
+    "dependencies" : {
+        "canvas" : "~0.13.1",
+        "color-convert" : "~0.3.1"
+    },
+    "devDependencies" : {
+        "tap" : "~0.3.0"
+    },
+    "scripts" : {
+        "test" : "tap test/*.js"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/substack/hugh-detector.git"
+    },
+    "homepage" : "https://github.com/substack/hugh-detector",
+    "keywords" : [
+        "red",
+        "matador",
+        "computer",
+        "vision",
+        "color",
+        "canvas",
+        "big",
+        "data"
+    ],
+    "author" : {
+        "name" : "James Halliday",
+        "email" : "mail@substack.net",
+        "url" : "http://substack.net"
+    },
+    "license" : "MIT"
+}

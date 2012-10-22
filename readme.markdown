@@ -43,5 +43,4 @@ npm install hugh-detector
 
 # license
 
-BSD
-```
+MIT
