@@ -2,6 +2,8 @@
 
 detect the color red in an image
 
+[![build status](https://secure.travis-ci.org/substack/hugh-detector.png)](http://travis-ci.org/substack/hugh-detector)
+
 # example
 
 ``` js
